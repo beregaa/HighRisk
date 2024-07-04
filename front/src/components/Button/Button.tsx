@@ -5,8 +5,8 @@ const Button = ()=>{
 
  return(
 
-  <div>
-     Buttton
+  <div>   
+     But   tton  
   </div>
 
  )
